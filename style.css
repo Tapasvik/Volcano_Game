@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: left; 
+}
+
+div{
+  padding-top: 50px;
+}
+
+canvas{
+  margin-left: 200px;
+  
+
+}
